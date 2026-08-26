@@ -4,6 +4,7 @@ Version 3, 29 June 2007
 This project is intended to be distributed under the GNU General Public License v3.0 (GPL-3.0), with the additional restriction below (the “Commons Clause”aka non-commercial use only).
 
 IMPORTANT: This additional restriction means this license is NOT the standard, unmodified GPLv3 license and does not meet OSI-approved open-source license conditions.
+  
   GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
