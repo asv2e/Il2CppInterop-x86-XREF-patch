@@ -1,6 +1,7 @@
 Il2CppInterop x86 XREF Patcher - Universal
 
 Purpose:
+fixes XrefScanUtilFinder.FindByteWriteTargetRightAfterCallTo(...)System.OverflowException
 Disables Il2CppInterop Pass16 XREF scanning only on 32-bit (x86) processes.
 64-bit behavior remains unchanged.
 
